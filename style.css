@@ -1,0 +1,17 @@
+body {
+	position: absolute;
+	left: 40%;
+}
+
+
+h3 {
+	font-family: sans-serif;
+	position: relative;
+	right: 30%;
+}
+
+#gitHubForm {
+	display: flex;
+	width: 300px;
+	
+}
